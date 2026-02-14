@@ -1,7 +1,7 @@
 
 # Actividad 1 - Backend 2 (Miércoles)
 
-**Nombre Completo:** Roque Julio Aldana  
+**Nombre Completo:** Roque Julio Aldana Rincon
 **Institución:** Cesde
 
 ---
