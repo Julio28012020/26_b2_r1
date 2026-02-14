@@ -1,43 +1,60 @@
-Actividad 1 - Backend 2 (Miércoles)
-Nombre Completo: Roque Julio Aldana
-Institución: Cesde
 
-1. Instancia de Base de Datos
-Enlace a la instancia: 
-Configuración de Base de Datos en Prisma.io: 
-![alt text](image.png)
+# Actividad 1 - Backend 2 (Miércoles)
+
+**Nombre Completo:** Roque Julio Aldana  
+**Institución:** Cesde
+
+---
+
+## 1. Instancia de Base de Datos
+
+* **Enlace a la instancia:** https://console.prisma.io/
+
+* **Configuración en Prisma.io:**  
+Configuración de Base de Datos en Prisma.io:
+
+![Configuración Prisma](TABLE.png)
+
+### Cadena de Conexión
+
+```env
+DATABASE_URL=postgresql://usuario:****@db.prisma.io:5432/postgres?sslmode=require
 
 
-Cadena de Conexión:
+---
 
-DATABASE_URL="postgresql://USER:PASSWORD@HOST:5432/DATABASE?sslmode=require"
+## 2. Conexión desde Spring Boot
 
-2. Conexión desde Spring Boot
-![alt text](TABLE.png)
+![Log conexión Spring Boot](Log_de_Conexión_Exitosa_en_Spring_Boot.png)
 
+---
 
-3. Pruebas de la API (CRUD)
-[POST] Crear Registro
-![alt text](POST.png)
+## 3. Pruebas de la API (CRUD)
 
-[GET] Obtener Todos (All)
-![alt text](GET_ALL.png)
+### POST – Crear Registro
+![POST](POST.png)
 
-[GET] Obtener por ID
-![alt text](GET_ID.png)
+### GET – Obtener Todos
+![GET ALL](GET_ALL.png)
 
-[GET] Obtener por Email
-![alt text](GET_Email.png)
+### GET – Obtener por ID
+![GET ID](GET_ID.png)
 
-[PUT] Actualizar Registro
-![alt text](PUT.png)
+### GET – Obtener por Email
+![GET Email](GET_Email.png)
 
-[DELETE] Eliminar Registro
-![alt text](DELETE.png)
+### PUT – Actualizar Registro
+![PUT](PUT.png)
 
-4. Pruebas Internas del Proyecto
+### DELETE – Eliminar Registro
+![DELETE](DELETE.png)
+
+---
+
+## 4. Pruebas Internas del Proyecto
 ![alt text](TEST.png)
 
+---
 
+*Este repositorio es un fork del proyecto original para la asignatura de Backend 2.*
 
-Este repositorio es un fork del proyecto original para la asignatura de Backend 2.
