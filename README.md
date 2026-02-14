@@ -13,30 +13,30 @@ Cadena de Conexión:
 DATABASE_URL="postgresql://USER:PASSWORD@HOST:5432/DATABASE?sslmode=require"
 
 2. Conexión desde Spring Boot
-![alt text](<Captura de pantalla 2026-02-12 191849.png>)
+![alt text](TABLE.png)
 
 
 3. Pruebas de la API (CRUD)
 [POST] Crear Registro
-![alt text](<Captura de pantalla 2026-02-12 194954.png>)
+![alt text](POST.png)
 
 [GET] Obtener Todos (All)
-![alt text](<Captura de pantalla 2026-02-12 195354.png>)
+![alt text](GET_ALL.png)
 
 [GET] Obtener por ID
-![alt text](<Captura de pantalla 2026-02-12 195454.png>)
+![alt text](GET_ID.png)
 
 [GET] Obtener por Email
-![alt text](<Captura de pantalla 2026-02-12 200109.png>)
+![alt text](GET_Email.png)
 
 [PUT] Actualizar Registro
-![alt text](<Captura de pantalla 2026-02-12 200326.png>)
+![alt text](PUT.png)
 
 [DELETE] Eliminar Registro
-![alt text](<Captura de pantalla 2026-02-12 200431.png>)
+![alt text](DELETE.png)
 
 4. Pruebas Internas del Proyecto
-![alt text](<Captura de pantalla 2026-02-12 200717.png>)
+![alt text](TEST.png)
 
 
 
