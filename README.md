@@ -6,12 +6,11 @@ Institución: Cesde
 Enlace a la instancia: 
 Configuración de Base de Datos en Prisma.io: 
 ![alt text](image.png)
-![alt text](image.png)
 
 
 Cadena de Conexión:
 
-postgres://d07f07eaad6e3ff89e4b627c9cae7ba39ce03148a592e7b3af4f210005aeca20:sk_4R-ow50_a_aaq6n3Osd9f@db.prisma.io:5432/postgres?sslmode=require
+DATABASE_URL="postgresql://USER:PASSWORD@HOST:5432/DATABASE?sslmode=require"
 
 2. Conexión desde Spring Boot
 ![alt text](<Captura de pantalla 2026-02-12 191849.png>)
