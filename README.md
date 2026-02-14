@@ -17,9 +17,7 @@ Configuración de Base de Datos en Prisma.io:
 
 ### Cadena de Conexión
 
-```env
 DATABASE_URL=postgresql://usuario:****@db.prisma.io:5432/postgres?sslmode=require
-
 
 ---
 
