@@ -5,7 +5,7 @@
 ---
 
 ## 1. Instancia de Base de Datos
-* **Enlace a la instancia:** [Prisma Studio - Base de Datos](https://console.prisma.io/cmliquj9500nlyhd2q763dvot/cmlirulmt006y4tfllveikoiy/cmlirulmt006w4tfl2obrd8rw/studio#table=students&schema=public&view=table?)
+* **Enlace a la instancia:** [Prisma Studio - Base de Datos]
 
 * **Configuración de Base de Datos en Prisma.io:**
 ![Configuración Base de Datos - URL y Usuario (sin contraseña)](datos-prisma.png)
@@ -13,6 +13,7 @@
 * **Cadena de Conexión:**
 ```
 postgresql://usuario:****@db.prisma.io:5432/postgres?sslmode=require
+postgres://usuario:****@db.prisma.io:5432/postgres?sslmode=require
 ```
 *(URL y usuario visibles, contraseña oculta por seguridad)*
 
