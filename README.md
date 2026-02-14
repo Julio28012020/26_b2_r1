@@ -13,7 +13,6 @@
 * **Cadena de Conexión:**
 ```
 postgresql://usuario:****@db.prisma.io:5432/postgres?sslmode=require
-postgres://usuario:****@db.prisma.io:5432/postgres?sslmode=require
 ```
 *(URL y usuario visibles, contraseña oculta por seguridad)*
 
