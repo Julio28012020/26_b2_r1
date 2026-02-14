@@ -52,7 +52,7 @@ postgresql://usuario:****@db.prisma.io:5432/postgres?sslmode=require
 ---
 
 ## 4. Pruebas Internas del Proyecto
-![Resultados de Pruebas Internas](test.png)
+![Resultados de Pruebas Internas](image.png)
 
 > **Estado final:** Todas las pruebas pasaron exitosamente.
 
