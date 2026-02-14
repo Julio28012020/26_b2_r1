@@ -5,7 +5,7 @@
 ---
 
 ## 1. Instancia de Base de Datos
-* **Enlace a la instancia:** [Prisma Studio - Base de Datos]
+* **Enlace a la instancia:** [Prisma Studio - Base de Datos](https://console.prisma.io/cmlirw20s0b4212eeyaw1a8jw/cmlmia3co04g2yhebjapq42xn/cmlmia3co04g0yhebckegrwoz/studio)
 
 * **Configuración de Base de Datos en Prisma.io:**
 ![Configuración Base de Datos - URL y Usuario (sin contraseña)](datos-prisma.png)
