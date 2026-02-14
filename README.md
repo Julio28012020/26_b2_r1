@@ -19,7 +19,7 @@ postgresql://usuario:****@db.prisma.io:5432/postgres?sslmode=require
 ---
 
 ## 2. Conexión desde Spring Boot
-![Log de Conexión Exitosa en Spring Boot](![alt text](conexion-spring.png))
+![Log de Conexión Exitosa en Spring Boot](conexion-spring.png)
 
 ---
 
@@ -34,7 +34,7 @@ postgresql://usuario:****@db.prisma.io:5432/postgres?sslmode=require
 ![GET All Request](get-all-request.png)
 ![GET All Response](get-all-response.png)
 
-###  Obtener por ID
+### [GET] Obtener por ID
 ![GET by ID Request](get-by-id-request.png)
 ![GET by ID Response](get-by-id-response.png)
 
